@@ -1,1 +1,8 @@
 makefile_defs.mk
+*.a
+*.eps
+*.swp
+*.o
+*.pdf
+*.ps
+*._*
