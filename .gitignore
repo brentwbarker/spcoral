@@ -1,6 +1,7 @@
 makefile_defs.mk
 *.a
 *.eps
+**/doc/**/.log
 *.swp
 *.o
 *.pdf
