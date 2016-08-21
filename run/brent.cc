@@ -28,14 +28,14 @@ int main(){
 
 
 
-  printf("Nq=%d, Nr=%d, delr=%g\n",Nq,Nr,delr);
+  printf("# Nq=%d, Nr=%d, delr=%g\n",Nq,Nr,delr);
   double normcheck=0.0;
   for(ir=0;ir<Nr;ir++){
     r=(0.5+ir)*delr;
     normcheck+=4.0*PI*r*r*delr*sf[ir];
     //printf("r=%6.3f, sf=%g\n",r,sf[ir]);
   } 
-  printf("normcheck=%g\n",normcheck);
+  printf("# normcheck=%g\n",normcheck);
 
   for(iq=0;iq<Nq;iq++){
     q=wf->GetQ(iq);
