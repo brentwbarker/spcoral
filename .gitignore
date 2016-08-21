@@ -1,4 +1,6 @@
 makefile_defs.mk
+local/
+run/brent
 *.a
 *.eps
 **/doc/**/.log
