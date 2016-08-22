@@ -3,7 +3,7 @@ local/
 run/brent
 *.a
 *.eps
-**/doc/**/.log
+**/doc/**/*.log
 *.swp
 *.o
 *.orig
