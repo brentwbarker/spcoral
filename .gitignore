@@ -6,6 +6,7 @@ run/brent
 **/doc/**/.log
 *.swp
 *.o
+*.orig
 *.pdf
 *.ps
 *._*
