@@ -1,6 +1,8 @@
 coral
 =====
 
+CORAL code to generate correlation functions.
+
 To Compile
 ----------
 
